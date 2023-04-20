@@ -7,3 +7,5 @@ python3 qr_generator.py [text] [filename (optionall)]
 "text" will be the information contained in the QR, if only "text" argument is supplied, it will be used as filename too. The 
 Generated QR image will be saved as true .svg image.
 
+Fully tested and working on Linux Mint 20.3
+
